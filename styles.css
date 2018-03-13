@@ -102,6 +102,20 @@ header .profile-image:hover {
   border-color: yellow;
 }
 
+.card .lang li {
+    display: inline;
+    background: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.card .lang li:hover {
+    background: yellow;
+    color: black;
+}
+
 h2.exp-title {
     text-align: center;
 }
